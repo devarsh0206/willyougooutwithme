@@ -1,8 +1,8 @@
 ![Gumball puppy eyes](./public/puppy-eyes.gif)
 
-## Will you go out with me?
+## hiii?
 **Will you go out with me?** is a Valentine’s 2025 website I whipped up based on an Instagram trend — a cheeky little website where you could send a link to your crush asking them out on a date.
-**Super simple concept —**  when your crush opened the link, they’d see *“Will you go out with me?”* with two buttons (**Yes** and **No**).
+**Super simple concept —**  when your crush opened the link, they’d see *“Will you be my valentine?”* with two buttons (**Yes** and **No**).
 **But here’s the catch —** the "No" button wasn’t actually clickable. Every time you hovered over it, it would jump to a different part of the screen, dodging the mouse. 😈
 So eventually… The only option left was **Yes**. Smooth, right?
 Built the whole thing with **Next.js**, **Scss**, and deployed it on **Vercel**. — just lightweight and fun. 
